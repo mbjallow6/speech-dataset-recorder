@@ -13,11 +13,7 @@ var prevButton = document.getElementById('prev')
 var recordButton = document.getElementById("recordButton");
 var stopButton = document.getElementById("stopButton");
 var pauseButton = document.getElementById("pauseButton");
-// var inputNum = document.getElementById("indexNum").value;
-// console.log(inputNum)
-// var upfile = document.getElementById('uploadedFile');
 
-//add events to those 2 buttons
 
 nextButton.addEventListener('click', nextPhrase);
 prevButton.addEventListener('click',prevPhrase);
@@ -33,14 +29,9 @@ async function fetchData(){
 	displayPhrase()
 }
 let index = 0
-// console.log(index)
 let data = null
 
-// function setIndex(){
-// 	var x = document.getElementById('indexNum').value; 
-// 	console.log(index)
-// 	inputNum = x
-// }
+
 
 function displayPhrase(){
 	const section = document.getElementById('corpus')
