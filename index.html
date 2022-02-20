@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>
+      Recording Tool for Speech to text Audio Data Collection
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Wav Audio Recorder for Speech Data Collection</h1>
+        <h5>List of Corpus</h5>
+      </div>
+      
+      <div id="corpus"></div>
+  
+      <!-- <input type="file" id="uploadedFile" multiple/>
+      <input type="submit" value="submit" onclick="uploadFile"> -->
+  
+     
+        
+      
+      <div id="controls">
+        
+        <button id="recordButton">Record</button>
+        <button id="pauseButton" disabled>Pause</button>
+        <button id="stopButton" disabled>Stop</button>
+        
+      </div>
+      <div id="nav">
+        <button id="prev">Prev</button>
+        <button id="next"> Next</button>
+      </div>
+      <div id="formats">Format: start recording to see sample rate</div>
+      <p class="header"><strong>Recordings:</strong></p>
+      <ol id="recordingsList"></ol>
+
+    </div>
+
+    <!-- App and recorder script -->
+    <script src="app-js/recorder.js"></script>
+    <script src="app-js/app.js"></script>
+  </body>
+</html>
