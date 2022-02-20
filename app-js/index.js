@@ -13,6 +13,8 @@ var prevButton = document.getElementById('prev')
 var recordButton = document.getElementById("recordButton");
 var stopButton = document.getElementById("stopButton");
 var pauseButton = document.getElementById("pauseButton");
+// var inputNum = document.getElementById("indexNum").value;
+// console.log(inputNum)
 // var upfile = document.getElementById('uploadedFile');
 
 //add events to those 2 buttons
@@ -31,13 +33,18 @@ async function fetchData(){
 	displayPhrase()
 }
 let index = 0
+// console.log(index)
 let data = null
 
-
+// function setIndex(){
+// 	var x = document.getElementById('indexNum').value; 
+// 	console.log(index)
+// 	inputNum = x
+// }
 
 function displayPhrase(){
 	const section = document.getElementById('corpus')
-	section.textContent = data[index]['phrase']
+	section.textContent =index+1+"."+"  " + data[index]['phrase']
 
 }
 
@@ -161,8 +168,6 @@ function createDownloadLink(blob) {
 	var url = URL.createObjectURL(blob);
 	var au = document.createElement('audio');
 	var li = document.createElement('li');
-	// var tr = document.createElement('tr')
-	// var td = document.createElement('td')
 	var link = document.createElement('a');
 	var filename = data[index]['corpusID']+'+'+data[index]['label']
 
