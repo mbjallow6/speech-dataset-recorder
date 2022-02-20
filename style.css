@@ -133,7 +133,10 @@ a {
     margin: 8px;
     font-size: 150%;
   }
-
+.instruction{
+  display: flex;
+  max-width: 900px;
+}
   
   #recordList{
       display: flex;
