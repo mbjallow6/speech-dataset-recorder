@@ -1,0 +1,1000 @@
+[{
+    "corpusID": "1249120_43453425_58166571",
+    "phrase": "When I remember her I feel down",
+    "label": "Emotional pain"
+},
+{
+    "corpusID": "1249120_43719934_43347848",
+    "phrase": "When I carry heavy things I feel like breaking my back",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_43719934_53187202",
+    "phrase": "there is too much pain when i move my arm",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_31349958_55816195",
+    "phrase": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_43719934_82524191",
+    "phrase": "My muscles in my lower back are aching",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_40663048_51348478",
+    "phrase": "i have muscle pain that my backn I Have Muscle Pain at my back leg",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_40663048_42741720",
+    "phrase": "I have muscle pain in my left leg",
+    "label": "Shoulder pain"
+},
+{
+    "corpusID": "1249120_15004831_21919890",
+    "phrase": "I have cut my finger because of playing football and I have to apply pain relief cream but it does not help",
+    "label": "Injury from sports"
+},
+{
+    "corpusID": "1249120_14353703_93481996",
+    "phrase": "I have acne in my face and other problems in my derma like itching",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_43719934_85316490",
+    "phrase": "I have a strange rash on my arm",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_44197979_23991689",
+    "phrase": "I have a sharp pain in my lower stomach.",
+    "label": "Stomach ache"
+},
+{
+    "corpusID": "1249120_40401830_91347010",
+    "phrase": "i have a knee pain when i walk a lot",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_33905644_94419450",
+    "phrase": "dr. I feel a strange and powerful pain inside my rib cage",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_44174241_12756709",
+    "phrase": "Don't cry",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_40663048_59137120",
+    "phrase": "I have for dia",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_43105396_81563216",
+    "phrase": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+    "label": "Hard to breath"
+},
+{
+    "corpusID": "1249120_40663048_86760636",
+    "phrase": "i feel that it's hard to breath for me specially after running or making any effort",
+    "label": "Hard to breath"
+},
+{
+    "corpusID": "1249120_44415714_12774994",
+    "phrase": "I read a book for along time and when I finished reading I feel head ache",
+    "label": "Head ache"
+},
+{
+    "corpusID": "1249120_43719934_42637884",
+    "phrase": "i cant sleep because of cold",
+    "label": "Injury from sports"
+},
+{
+    "corpusID": "1249120_43105396_85779128",
+    "phrase": "My infected wound cause fever",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_43719934_88984375",
+    "phrase": "I lose a lot of my hair",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_43719934_66133523",
+    "phrase": "i feel dizzy after severe diarrhea",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_39675900_84254781",
+    "phrase": "I feel a pain in my back",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_43719934_29460358",
+    "phrase": "Laceration, rupture or opening in the skin",
+    "label": "Open wound"
+},
+{
+    "corpusID": "1249120_39675900_33417205",
+    "phrase": "My back hurts me and i can't bend it or walk",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_38548574_48897763",
+    "phrase": "My head hurts whenever I try to do something.",
+    "label": "Head ache"
+},
+{
+    "corpusID": "1249120_44027675_19144041",
+    "phrase": "I have dark spots on my skin",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_40401830_78987039",
+    "phrase": "I feel a sharp pain in my stomach",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_39675900_55647543",
+    "phrase": "I can't do anything I feel a weak in my body",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_40663048_70883977",
+    "phrase": "I have cloudy eyes",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_29672643_75261138",
+    "phrase": "I have a back pain since I turned 70 years old.",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_33251186_66147241",
+    "phrase": "I tried to put my glasses to see more clear but cant find any change",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_44027675_99323119",
+    "phrase": "I feel deep Tingling when I touch Acne followed by bad sensation",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_43105396_93760266",
+    "phrase": "My acne gets worse when it is hot",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_38548574_37713058",
+    "phrase": "Sometimes I feel like a claw on my chest that leaves me breathless.",
+    "label": "Hard to breath"
+},
+{
+    "corpusID": "1249120_43105396_31701494",
+    "phrase": "my abdominal muscles have great pain since i was at GYM",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_43105396_18466333",
+    "phrase": "My back got injured while i was lifting at the gym",
+    "label": "Injury from sports"
+},
+{
+    "corpusID": "1249120_42554554_91878727",
+    "phrase": "my ankle is hurting me",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_44023395_102591472",
+    "phrase": "I think my wound is infected",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_41336418_98516775",
+    "phrase": "i feel pain in my knee",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_44142156_33811848",
+    "phrase": "My skin is very dry and peeling.",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_44023395_32770026",
+    "phrase": "i can't move my shoulder because of pain",
+    "label": "Shoulder pain"
+},
+{
+    "corpusID": "1249120_43898158_20629391",
+    "phrase": "when i wake up in the morning i feel dizzy",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_44323331_89529293",
+    "phrase": "My hair is falling out in huge amount",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_43918153_65721432",
+    "phrase": "I have a sharp pain in my neck",
+    "label": "Neck pain"
+},
+{
+    "corpusID": "1249120_39675900_92774185",
+    "phrase": "There is pain in the muscles I do not know caused",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_43719934_72342755",
+    "phrase": "I have a problem in the expiration because i have abronchial asthma",
+    "label": "Hard to breath"
+},
+{
+    "corpusID": "1249120_29713479_30880664",
+    "phrase": "Every time I make an effort, I felt dizzy.",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_27392644_30360688",
+    "phrase": "I have a powerful pain inside my neck",
+    "label": "Neck pain"
+},
+{
+    "corpusID": "1249120_43719934_73877271",
+    "phrase": "I have a pain internal",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_36929821_22772305",
+    "phrase": "chronic disease of hair follicles and sebaceous glands.",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_31349958_55649652",
+    "phrase": "I feel a huge emotional pain after I broke up with my girlfriend.",
+    "label": "Emotional pain"
+},
+{
+    "corpusID": "1249120_43995026_50188564",
+    "phrase": "When I stand up too quickly I start to feel dizzy and light-headed",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_40663048_65421911",
+    "phrase": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_39438102_72804973",
+    "phrase": "I have a feeling like my whole body is complaining",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_39675900_64467464",
+    "phrase": "My knee hurts when I play squash",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_40663048_90892859",
+    "phrase": "i can't see well",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_31349958_45296716",
+    "phrase": "I tried alot of cream but i still feel the same skin problem",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_40663048_96568782",
+    "phrase": "It feels like someone stuck a knife into my shoulder",
+    "label": "Shoulder pain"
+},
+{
+    "corpusID": "1249120_35408915_40576364",
+    "phrase": "I feel a burning sensation in my shoulder muscle.",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_29713479_101179933",
+    "phrase": "I cut my foot at the pool and it breaks open every day when I walk on it.",
+    "label": "Open wound"
+},
+{
+    "corpusID": "1249120_41087148_65738322",
+    "phrase": "My knee catches and hurts when I first stand up after sitting.",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_20518958_23074828",
+    "phrase": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_39675900_82352673",
+    "phrase": "I feel pain in my shoulders when I write on the keyboard.",
+    "label": "Shoulder pain"
+},
+{
+    "corpusID": "1249120_44027675_100349992",
+    "phrase": "i have a problem in seeing objects it is too difficult to see",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_31349958_25285161",
+    "phrase": "glass broken and wound my leg badly the wound is so wide",
+    "label": "Open wound"
+},
+{
+    "corpusID": "1249120_35350617_65750534",
+    "phrase": "I have a blurry vision during my swimming training in the pool, why?",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_43719934_36107167",
+    "phrase": "I love to walk and be outside but the bottoms of my feet get sore so quickly.",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_1853182_38598866",
+    "phrase": "I feel pain in my knee when I climb the stairs.",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_39675900_20831554",
+    "phrase": "I get tired too fast, I can barely put on my clothes in the morning.",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_38548574_80257337",
+    "phrase": "My knee hurts when I walk",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_31349958_101101241",
+    "phrase": "i can't rotate my neck",
+    "label": "Neck pain"
+},
+{
+    "corpusID": "1249120_44027675_27634315",
+    "phrase": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_44027675_89138183",
+    "phrase": "i have a problem in my back i cannot extend it",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_30766630_56064697",
+    "phrase": "I can't walk because i have a great foot ache",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_27392644_90841863",
+    "phrase": "My heart is beating fast and it scares me.",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_43105396_90991239",
+    "phrase": "I used to have acne when I was 15 years old",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_43105396_57267134",
+    "phrase": "My muscles in my lower back are aching.",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_40663048_75362840",
+    "phrase": "My shoulder muscle hurts when I try to reach up.",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_39675900_44857929",
+    "phrase": "I feel heart pain when I walk a lot",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_44023395_39563768",
+    "phrase": "My hair is falling out in huge amount",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_6338946_35137575",
+    "phrase": "I feel a pain in my back",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_27392644_71854860",
+    "phrase": "My skin is itchy and inflamed",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_43105396_40885347",
+    "phrase": "i can't see well",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_31349958_99274194",
+    "phrase": "I have a cold and it makes me cough alot",
+    "label": "Cough"
+},
+{
+    "corpusID": "1249120_31349958_75030259",
+    "phrase": "I have a dry throat",
+    "label": "Cough"
+},
+{
+    "corpusID": "1249120_29672643_84613593",
+    "phrase": "I'm not hearing well I have problem with my ear",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_44263136_64809479",
+    "phrase": "My foot is hurting so much.",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_38548574_83463570",
+    "phrase": "My shower drain is full of hair every time.",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_27392644_86164706",
+    "phrase": "I have front head pain and when I get it the light bothers me.",
+    "label": "Head ache"
+},
+{
+    "corpusID": "1249120_27392644_78038831",
+    "phrase": "Even though I'm an adult my face keeps breaking out in pimples.",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_44197979_109954671",
+    "phrase": "When I get out of bed in the morning my body feels very weak.",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_43855932_105242356",
+    "phrase": "My knee catches and hurts when I first stand up after sitting.",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_43665783_84776699",
+    "phrase": "surgical wounds red, firing pus, painful and hot to the touch",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_43719934_22444850",
+    "phrase": "Feel like something is being jabbed into my joints",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_43898272_12278400",
+    "phrase": "The arches of my feet hurt when I wear heels",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_44259428_83019694",
+    "phrase": "I feel pain in the lower back",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_43918153_109595997",
+    "phrase": "I have a dull ache in my head",
+    "label": "Head ache"
+},
+{
+    "corpusID": "1249120_44027675_33464746",
+    "phrase": "The arches of my feet hurt when I wear heels",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_38548574_57378591",
+    "phrase": "I feel a pain in my neck",
+    "label": "Neck pain"
+},
+{
+    "corpusID": "1249120_31349958_36803194",
+    "phrase": "I have a sharp pain in my neck",
+    "label": "Neck pain"
+},
+{
+    "corpusID": "1249120_43105396_97406490",
+    "phrase": "i have pain but i can't specify place",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_38202325_72751015",
+    "phrase": "I have an ear ache that won't go away. I don't have a cold or headache or any other symptoms. Just an earache.",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_43719934_79263971",
+    "phrase": "I have cloudy eyes",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_43758322_47410422",
+    "phrase": "I feel joint pain every time I move",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_41087148_27132398",
+    "phrase": "i have a hard pain in my stomach",
+    "label": "Stomach ache"
+},
+{
+    "corpusID": "1249120_38548574_21360760",
+    "phrase": "My left ear is ok, but the right one feels like it's being stabbed with a nail.",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_43719934_49828446",
+    "phrase": "I need a kind of cream wich make my muscles more relaxed",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_40663048_55274079",
+    "phrase": "I have a back pain since I fell on the floor.",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_39675900_94763053",
+    "phrase": "I feel lightheaded",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_43898158_80144458",
+    "phrase": "My body aches on the inside between my hips and shoulders.",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_44027675_12530930",
+    "phrase": "I have a foot ache after running 500m with my running shoes.",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_38548574_109106533",
+    "phrase": "I was diagnosed with B12-deficiency anemia, which explains why I always felt cold.",
+    "label": "Feeling cold"
+},
+{
+    "corpusID": "1249120_35350617_79852662",
+    "phrase": "i feel hurt, lot of pain in my heart",
+    "label": "Emotional pain"
+},
+{
+    "corpusID": "1249120_43719934_15555042",
+    "phrase": "I read a book for along time and when I finished reading I feel head ache",
+    "label": "Head ache"
+},
+{
+    "corpusID": "1249120_31349958_15229477",
+    "phrase": "I break out on my face very frequently",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_18985376_66234921",
+    "phrase": "I have tried to relief it but I can't",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_41336418_55313967",
+    "phrase": "I stopped sports because I get Injury from sports",
+    "label": "Injury from sports"
+},
+{
+    "corpusID": "1249120_43788827_53247832",
+    "phrase": "Every time I take a deep breath I start coughing",
+    "label": "Cough"
+},
+{
+    "corpusID": "1249120_40663048_16096306",
+    "phrase": "when i extend my leg there is pain in knee joint",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_44027675_106420859",
+    "phrase": "my head hurts me badly",
+    "label": "Head ache"
+},
+{
+    "corpusID": "1249120_40663048_88285220",
+    "phrase": "when i was washing my hair it was falling out heavily",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_43105396_60363465",
+    "phrase": "I hate my acne.",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_44023395_15545976",
+    "phrase": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_29672643_42450567",
+    "phrase": "i have pain like needles in my joints.",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_44246595_34981278",
+    "phrase": "i have a great pain in my thorax from heart injury",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_38548574_17290454",
+    "phrase": "I don't know why I'm constantly sad.",
+    "label": "Emotional pain"
+},
+{
+    "corpusID": "1249120_38548574_33898870",
+    "phrase": "i feel pain in my neck",
+    "label": "Neck pain"
+},
+{
+    "corpusID": "1249120_44027675_30030315",
+    "phrase": "My muscles feel tired",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_40663048_53363963",
+    "phrase": "I tried to put my glasses to see more clear but cant find any change",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_44259428_45992221",
+    "phrase": "i feel pain in my stomach",
+    "label": "Stomach ache"
+},
+{
+    "corpusID": "1249120_41336418_11717772",
+    "phrase": "The arches of my feet hurt when I wear heels",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_43105396_104916619",
+    "phrase": "I have a foot ache in winter, or when it feels cold, why?",
+    "label": "Foot ache"
+},
+{
+    "corpusID": "1249120_39675900_58459793",
+    "phrase": "My back is hurting so much.",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_38548574_11196558",
+    "phrase": "The pain feels like it's right below the skin",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_44142156_20307840",
+    "phrase": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_43719934_39477688",
+    "phrase": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_43105396_65580508",
+    "phrase": "I have a pain internal",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_44273314_28827187",
+    "phrase": "my child has cough all night, she can't sleep",
+    "label": "Cough"
+},
+{
+    "corpusID": "1249120_22345789_20346915",
+    "phrase": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_43856216_63244298",
+    "phrase": "When I play sports I have some burning sensation in my spine",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_44176037_93714115",
+    "phrase": "I have a hard muscle pain since i went to the gym",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_43918153_56806783",
+    "phrase": "my hair falling out",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_40663048_31956919",
+    "phrase": "I feel joint pain every time I move",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_29672643_44035263",
+    "phrase": "I feel aching on my insides.",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_40663048_81940723",
+    "phrase": "I have this strange rash on my arm.",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_31349958_12784683",
+    "phrase": "My face break out badly every month around my cycle.",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_43665783_99565954",
+    "phrase": "I have a lot of mucus when I cough.",
+    "label": "Cough"
+},
+{
+    "corpusID": "1249120_44294866_20041027",
+    "phrase": "i'm disappointed",
+    "label": "Emotional pain"
+},
+{
+    "corpusID": "1249120_38548574_37170030",
+    "phrase": "I often get a stomach ache after I eat. I haven't been able to pinpoint which foods might be the trigger.",
+    "label": "Stomach ache"
+},
+{
+    "corpusID": "1249120_44294866_98831261",
+    "phrase": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_43951421_102210939",
+    "phrase": "I was playing soccer and I twisted my ankle",
+    "label": "Injury from sports"
+},
+{
+    "corpusID": "1249120_40663048_24577508",
+    "phrase": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_44174241_106127699",
+    "phrase": "I feel so sore in my stomach area.",
+    "label": "Stomach ache"
+},
+{
+    "corpusID": "1249120_44174241_49139594",
+    "phrase": "i have shoulder pain after doing any home work.",
+    "label": "Shoulder pain"
+},
+{
+    "corpusID": "1249120_44023395_75713969",
+    "phrase": "laceration, rupture or opening in the skin",
+    "label": "Open wound"
+},
+{
+    "corpusID": "1249120_35408915_92289463",
+    "phrase": "I can't carry anything I have a pain in my shoulder",
+    "label": "Shoulder pain"
+},
+{
+    "corpusID": "1249120_33905644_20657588",
+    "phrase": "How do you know if you have a torn meniscus in your knee?",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_31349958_90820961",
+    "phrase": "My head gets dizzy when I try to get up.",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_43719934_10118861",
+    "phrase": "I feel pain when parting loved ones",
+    "label": "Emotional pain"
+},
+{
+    "corpusID": "1249120_42210938_96860829",
+    "phrase": "I think my wound is infected",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_43719934_109556634",
+    "phrase": "i feel dizzy after severe diarrhea",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_43719934_59715186",
+    "phrase": "there is a red stain in my skin",
+    "label": "Skin issue"
+},
+{
+    "corpusID": "1249120_29672643_97524593",
+    "phrase": "i can't walk, my knee hurts me",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_21665495_105629373",
+    "phrase": "I feel a pain in my back",
+    "label": "Back pain"
+},
+{
+    "corpusID": "1249120_29289135_61856369",
+    "phrase": "My body feels weak and I tried to make it relax but it stills pain me",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_31349958_12361039",
+    "phrase": "I feel increased heart rate with prick",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_31349958_47129843",
+    "phrase": "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_35350617_33616773",
+    "phrase": "I feel increased heart rate with prick",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_35448024_51511610",
+    "phrase": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+    "label": "Head ache"
+},
+{
+    "corpusID": "1249120_35448024_70621344",
+    "phrase": "i have a problem in my middle ear made by infection",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_38548574_35011408",
+    "phrase": "My television and computer seem out of focus even though I have new glasses.",
+    "label": "Blurry vision"
+},
+{
+    "corpusID": "1249120_38548574_59097289",
+    "phrase": "I have a break in the skin between my thumb and index finger and it will not close.",
+    "label": "Open wound"
+},
+{
+    "corpusID": "1249120_38548574_71315901",
+    "phrase": "When I brush my hair I notice big clumps of hair coming out in the brush.",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_41087148_97162751",
+    "phrase": "I feel pain in the knee when walking",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_43105396_52650663",
+    "phrase": "I'm not feeling good I can't take my breath",
+    "label": "Hard to breath"
+},
+{
+    "corpusID": "1249120_44027675_82111072",
+    "phrase": "i can't move my shoulder because of pain",
+    "label": "Shoulder pain"
+},
+{
+    "corpusID": "1249120_44263136_42546148",
+    "phrase": "I feel pain inside and I can not identify it",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_44323331_89173398",
+    "phrase": "I have an indigestion",
+    "label": "Stomach ache"
+},
+{
+    "corpusID": "1249120_17632529_59148406",
+    "phrase": "I m feeling cold though the temperature is high",
+    "label": "Feeling cold"
+},
+{
+    "corpusID": "1249120_35448024_19183141",
+    "phrase": "My body feels weak although I take my vitamins regularly.",
+    "label": "Body feels weak"
+},
+{
+    "corpusID": "1249120_38548574_67556518",
+    "phrase": "i feel pain in my body",
+    "label": "Internal pain"
+},
+{
+    "corpusID": "1249120_38548574_82844176",
+    "phrase": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_40571337_41381025",
+    "phrase": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_43665783_29692036",
+    "phrase": "I get an ear ache when it is cold",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_44027675_26607447",
+    "phrase": "My joints feel swollen",
+    "label": "Joint pain"
+},
+{
+    "corpusID": "1249120_44027675_27329138",
+    "phrase": "When I stand I feel dizzy I do not know why",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_6338946_37878461",
+    "phrase": "I feel lightheaded",
+    "label": "Feeling dizzy"
+},
+{
+    "corpusID": "1249120_15965551_30586097",
+    "phrase": "My lower back hurts but it improves if I stretch it",
+    "label": "Muscle pain"
+},
+{
+    "corpusID": "1249120_15965551_57015604",
+    "phrase": "I got acne when I ate chili",
+    "label": "Acne"
+},
+{
+    "corpusID": "1249120_29289135_60949903",
+    "phrase": "I could not exercise because of my knee pain",
+    "label": "Knee pain"
+},
+{
+    "corpusID": "1249120_41087148_100376153",
+    "phrase": "I'm not hearing well I have problem with my ear",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_43665783_58565107",
+    "phrase": "A terrible fall in hair",
+    "label": "Hair falling out"
+},
+{
+    "corpusID": "1249120_6338946_14309885",
+    "phrase": "my ear hurts me badly",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_21665495_80351024",
+    "phrase": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_41087148_31312301",
+    "phrase": "heart aches so much",
+    "label": "Heart hurts"
+},
+{
+    "corpusID": "1249120_35448024_91999487",
+    "phrase": "My throught is so sore.",
+    "label": "Neck pain"
+},
+{
+    "corpusID": "1249120_38548574_45577164",
+    "phrase": "The pain in my ear is unbearable.",
+    "label": "Ear ache"
+},
+{
+    "corpusID": "1249120_14353703_21660925",
+    "phrase": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+    "label": "Infected wound"
+},
+{
+    "corpusID": "1249120_1853182_107248900",
+    "phrase": "Chronic bone disease at the level of the doubles of the lower Estremidades",
+    "label": "Knee pain"
+}]
