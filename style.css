@@ -21,11 +21,24 @@ body {
   text-align: center;
   overflow-wrap: break-word;
 }
+.instruction{
+  display: flex;
+  max-width: 900px;
+}
 #corpus{
   font-size: 200%;
   font-weight: bold;
   max-width: 700px;
 }
+.input{
+  display: block;
+  align-items: flex-start;
+  width: 700px;
+  margin: 10px;
+  padding: 12px 20px;
+  border-radius: 4px;
+}
+
 
 a {
     color: #337ab7;
@@ -133,21 +146,12 @@ a {
     margin: 8px;
     font-size: 150%;
   }
-.instruction{
-  display: flex;
-  max-width: 900px;
-}
+
   
   #recordList{
       display: flex;
      
   }
-  /* .input{
-    display: block;
-    align-items: flex-start;
-    width: 700px;
-    margin: 10px;
 
-  } */
   
  

@@ -13,6 +13,8 @@ var prevButton = document.getElementById('prev')
 var recordButton = document.getElementById("recordButton");
 var stopButton = document.getElementById("stopButton");
 var pauseButton = document.getElementById("pauseButton");
+var phraseNum = document.getElementById('phraseNum');
+// console.log(phraseNum)
 
 
 nextButton.addEventListener('click', nextPhrase);
@@ -20,6 +22,19 @@ prevButton.addEventListener('click',prevPhrase);
 recordButton.addEventListener("click", startRecording);
 stopButton.addEventListener("click", stopRecording);
 pauseButton.addEventListener("click", pauseRecording);
+// phraseNum.addEventListener('onchage', updatePhrase);
+
+let index = 0
+let data = null
+
+
+function updatePhrase(){
+	var x = document.getElementById("phraseNum").value;
+	console.log(x)
+	index= parseInt(x)-1
+	displayPhrase()
+
+}
 
 async function fetchData(){
 	const requestURL = 'https://raw.githubusercontent.com/mbjallow6/datasets/main/data.json'
@@ -28,8 +43,7 @@ async function fetchData(){
 	data = await response.json();
 	displayPhrase()
 }
-let index = 0
-let data = null
+
 
 
 
